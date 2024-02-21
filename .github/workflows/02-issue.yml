@@ -1,14 +1,11 @@
 name: 02 issue
 
 on:
-  push:
-  issues:
-    types:
-        opened
+  
 
   
 jobs:
-  hola-mundo:
+  hola-mundo-issues:
     runs-on: ubuntu-latest
     steps:
     - name: Hola victor hugo

@@ -3,11 +3,11 @@ name: 01d hola mundo dos
 
 on:
   workflow_dispatch:
-  push:
+  run:
   
 jobs:
   hola-mundo:
     runs-on: ubuntu-latest
     steps:
     - name: Hola victor
-      run: echo "Hello Mundo desde visual estudio"
+      run: echo "Hello Mundo desde visual estudio elias"
