@@ -11,6 +11,6 @@ jobs:
   hola-mundo:
     runs-on: ubuntu-latest
     steps:
-    - name: Hola victor
+    - name: Hola victor hugo
       run: echo "Hello Mundo desde visual estudio"
 
