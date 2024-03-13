@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Hola victor3
-      run: echo "Hello Mundo desde visual estudio"
+      run: echo "Hello Mundo borre el issue y guarde este"
